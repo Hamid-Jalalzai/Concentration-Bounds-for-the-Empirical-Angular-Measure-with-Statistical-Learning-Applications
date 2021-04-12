@@ -1,5 +1,5 @@
 # Concentration-Bounds-for-the-Empirical-Angular-Measure-with-Statistical-Learning-Applications
-Repository containing the code for the article "Concentration Bounds for the Empirical Angular Measure with Statistical Learning Applications", Stéphan Clémençon, Hamid Jalalzai, Anne Sabourin and Johan Segers [https://arxiv.org/pdf/2104.03966.pdf].
+Repository containing the code for the article "Concentration Bounds for the Empirical Angular Measure with Statistical Learning Applications", Stéphan Clémençon, Hamid Jalalzai, Anne Sabourin and Johan Segers (https://arxiv.org/pdf/2104.03966.pdf).
 
 ## Description
 
